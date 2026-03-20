@@ -147,3 +147,11 @@ frontend/
 7. Connection established
 
 ###. Sending ADA
+// Transaction flow
+1. User enters recipient address
+2. Input amount in ADA
+3. Optional metadata/message
+4. Preview transaction details
+5. User confirms in wallet
+6. Transaction signed and submitted
+7. Real-time status updates
