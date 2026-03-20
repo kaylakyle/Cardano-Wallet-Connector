@@ -1,16 +1,96 @@
-# React + Vite
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cardano-foundation/brand-resources/main/Cardano%20Logo%20Assets/PNG/Black/Cardano_Logo_Black.png" width="200" alt="Cardano Logo" />
+  <h1>Cardano DApp Frontend</h1>
+  <p><strong>Production-Ready React Application for Cardano Blockchain</strong></p>
+  
+  [![React](https://img.shields.io/badge/React-18.x-61DAFB?logo=react)](https://reactjs.org/)
+  [![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?logo=vite)](https://vitejs.dev/)
+  [![TailwindCSS](https://img.shields.io/badge/Tailwind-4.x-06B6D4?logo=tailwindcss)](https://tailwindcss.com/)
+  [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+  
+  <p>A modern, production-ready decentralized application that connects Cardano wallets, enables ADA transfers, and provides real-time transaction tracking with a beautiful UI/UX.</p>
+  
+  <a href="https://cardano-dapp-demo.vercel.app">Live Demo</a>
+  ·
+  <a href="https://github.com/yourusername/cardano-wallet-dapp/issues">Report Bug</a>
+  ·
+  <a href="https://github.com/yourusername/cardano-wallet-dapp/issues">Request Feature</a>
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## ✨ Key Features
 
-Currently, two official plugins are available:
+<table>
+<tr>
+<td width="50%">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### 🔌 **Wallet Integration**
+- Connect to **Nami**, **Eternl**, and **Flint** wallets
+- CIP-30 compliant wallet API
+- Automatic network detection (Testnet/Mainnet)
+- Real-time balance updates
 
-## React Compiler
+</td>
+<td width="50%">
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 💸 **Send ADA**
+- Transfer ADA to any Cardano address
+- Metadata support for transactions
+- Transaction preview before sending
+- Fee estimation
 
-## Expanding the ESLint configuration
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 📊 **Dashboard**
+- Real-time balance display
+- Transaction volume charts
+- Network status indicator
+- Recent transaction history
+
+</td>
+<td width="50%">
+
+### 🎨 **Modern UI/UX**
+- Glass morphism design
+- Smooth animations with Framer Motion
+- Fully responsive
+- Dark theme optimized
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Technology Stack
+
+| Category | Technologies |
+|----------|--------------|
+| **Frontend Framework** | React 18, React Router 6 |
+| **Build Tool** | Vite 5 |
+| **Styling** | Tailwind CSS 4, CSS3 |
+| **Animations** | Framer Motion |
+| **State Management** | React Context API |
+| **HTTP Client** | Axios |
+| **Notifications** | React Hot Toast |
+| **Charts** | Recharts |
+| **Icons** | React Icons |
+
+## 📋 Prerequisites
+
+Before you begin, ensure you have:
+
+- **Node.js** (v18.0.0 or higher)
+- **npm** (v9.0.0 or higher) or **yarn**
+- **Cardano Wallet Extension** (choose one):
+  - [Nami Wallet](https://chrome.google.com/webstore/detail/nami/lpfcbjknjpeeailhpklibjofjimfiof)
+  - [Eternl Wallet](https://chrome.google.com/webstore/detail/eternl/kmhcihpebfmpgmihbkipmjlmmioameka)
+  - [Flint Wallet](https://chrome.google.com/webstore/detail/flint-wallet/hnhobjmcibchnmglfbldbfabcgaknlkj)
+
+## 🚀 Quick Start
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/cardano-wallet-dapp.git
+cd cardano-wallet-dapp/frontend
