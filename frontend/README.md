@@ -155,3 +155,61 @@ frontend/
 5. User confirms in wallet
 6. Transaction signed and submitted
 7. Real-time status updates
+
+###. Simple Steps to Connect Wallet
+1. Install a Cardano Wallet Extension
+For Chrome/Brave/Edge:
+
+Nami Wallet: https://chrome.google.com/webstore/detail/nami/lpfcbjknjpeeailhpklibjofjimfiof
+
+Eternl Wallet: https://chrome.google.com/webstore/detail/eternl/kmhcihpebfmpgmihbkipmjlmmioameka
+
+Click "Add to Chrome" and install.
+
+### 2. Create/Setup Wallet
+Click the extension icon in your browser
+
+Choose "Create New Wallet" or "Restore Wallet"
+
+Save your recovery phrase (12-24 words) safely
+
+Set a spending password
+
+Important: Switch to Testnet mode
+
+In Nami: Click settings → Network → Testnet/main
+
+In Eternl: Click network icon → Select Testnet
+
+### 3. Get Test ADA (Free)
+Go to https://docs.cardano.org/cardano-testnet/tools/faucet
+
+Paste your wallet address
+
+Request 1000 test ADA
+
+Wait 1-2 minutes
+
+###4. Connect to Your App
+Open your app: http://localhost:5173
+
+Click the "Connect Wallet" button
+
+Select Nami or Eternl
+
+Approve connection in the wallet popup
+
+Done! You'll see your balance and can send ADA
+
+###  5. Send ADA
+Click "Send ADA" in navigation
+
+Enter recipient address
+
+Enter amount (e.g., 10)
+
+Click "Send ADA"
+
+Confirm in wallet
+
+Transaction sent!
