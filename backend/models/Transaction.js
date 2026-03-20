@@ -4,7 +4,7 @@ const transactionSchema = new mongoose.Schema({
   hash: {
     type: String,
     required: true,
-    unique: true
+    // REMOVE: unique: true
   },
   fromAddress: {
     type: String,
@@ -50,10 +50,10 @@ const transactionSchema = new mongoose.Schema({
   timestamps: true
 });
 
-// Indexes
+// Keep only these indexes (add unique here)
+transactionSchema.index({ hash: 1 }, { unique: true });
 transactionSchema.index({ fromAddress: 1 });
 transactionSchema.index({ toAddress: 1 });
-transactionSchema.index({ hash: 1 });
 transactionSchema.index({ timestamp: -1 });
 
 module.exports = mongoose.model('Transaction', transactionSchema);

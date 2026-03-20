@@ -4,7 +4,6 @@ const userSchema = new mongoose.Schema({
   walletAddress: {
     type: String,
     required: true,
-    unique: true,
     lowercase: true,
     trim: true
   },
@@ -46,8 +45,8 @@ const userSchema = new mongoose.Schema({
   timestamps: true
 });
 
-// Index for faster queries
-userSchema.index({ walletAddress: 1 });
+// Keep only these indexes
+userSchema.index({ walletAddress: 1 }, { unique: true }); // Add unique here instead
 userSchema.index({ createdAt: -1 });
 
 module.exports = mongoose.model('User', userSchema);
