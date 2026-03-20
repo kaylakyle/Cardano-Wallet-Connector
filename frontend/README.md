@@ -109,4 +109,5 @@ VITE_NETWORK=testnet
 VITE_SUPPORTED_WALLETS=nami,eternl,flint
 
 ### 1. start development server
-npm run dev
+npm run dev - http://localhost:5173
+
