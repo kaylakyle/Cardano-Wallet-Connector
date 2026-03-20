@@ -133,4 +133,15 @@ frontend/
 └── README.md                    # Documentation
 
 ### . Wallet Connection Flow
-
+// Simplified wallet connection process
+1. User clicks "Connect Wallet"
+2. App scans for installed Cardano wallets
+3. User selects preferred wallet
+4. Wallet extension requests permissions
+5. User approves connection
+6. App retrieves:
+   - Wallet address
+   - Stake address
+   - Network ID
+   - ADA balance
+7. Connection established
