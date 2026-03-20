@@ -97,3 +97,14 @@ cd cardano-wallet-dapp/frontend
 
 ### 1. install dependencies
 npm install
+
+### 1. config environment .env
+# API Configuration
+VITE_API_URL=http://localhost:5000/api
+
+# Network Configuration
+VITE_NETWORK=testnet
+
+# Supported Wallets
+VITE_SUPPORTED_WALLETS=nami,eternl,flint
+
