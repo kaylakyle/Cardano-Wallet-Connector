@@ -145,3 +145,5 @@ frontend/
    - Network ID
    - ADA balance
 7. Connection established
+
+###. Sending ADA
