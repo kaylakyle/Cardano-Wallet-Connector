@@ -94,3 +94,7 @@ Before you begin, ensure you have:
 ```bash
 git clone https://github.com/yourusername/cardano-wallet-dapp.git
 cd cardano-wallet-dapp/frontend
+
+### 1. install dependencies
+```bash
+npm install
