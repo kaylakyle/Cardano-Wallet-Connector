@@ -112,4 +112,22 @@ VITE_SUPPORTED_WALLETS=nami,eternl,flint
 npm run dev - http://localhost:5173
 
 ### Project Structure
-
+frontend/
+├── src/
+│   ├── components/               # Reusable UI Components
+│   │   ├── Navbar.jsx           # Navigation with wallet status
+│   │   ├── WalletConnector.jsx  # Wallet connection modal
+│   │   ├── Dashboard.jsx        # Main dashboard view
+│   │   ├── SendADA.jsx          # Send ADA form
+│   │   └── Transactions.jsx     # Transaction history
+│   ├── contexts/                # React Context Providers
+│   │   └── WalletContext.jsx    # Global wallet state
+│   ├── styles/                  # Global styles
+│   │   └── index.css            # Tailwind imports & custom styles
+│   ├── App.jsx                  # Main app component
+│   └── main.jsx                 # Application entry point
+├── public/                      # Static assets
+├── index.html                   # HTML template
+├── vite.config.js               # Vite configuration
+├── package.json                 # Dependencies
+└── README.md                    # Documentation
