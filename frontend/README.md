@@ -108,3 +108,4 @@ VITE_NETWORK=testnet
 # Supported Wallets
 VITE_SUPPORTED_WALLETS=nami,eternl,flint
 
+### 1. start development server
