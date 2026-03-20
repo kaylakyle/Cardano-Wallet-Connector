@@ -131,3 +131,6 @@ frontend/
 ├── vite.config.js               # Vite configuration
 ├── package.json                 # Dependencies
 └── README.md                    # Documentation
+
+### . Wallet Connection Flow
+
