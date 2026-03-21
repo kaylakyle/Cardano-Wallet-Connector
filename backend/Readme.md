@@ -27,7 +27,7 @@ This backend service provides REST APIs for the Cardano wallet dApp, handling:
 - Real-time blockchain interaction
 - Rate limiting and security
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Version | Purpose |
 |------------|---------|---------|
