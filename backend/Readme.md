@@ -2,7 +2,7 @@
 
 Production-ready Node.js/Express backend for Cardano blockchain dApp with MongoDB integration, JWT authentication, and rate limiting.
 
-## 📋 Table of Contents
+##  Table of Contents
 - [Overview](#overview)
 - [Tech Stack](#tech-stack)
 - [Prerequisites](#prerequisites)
