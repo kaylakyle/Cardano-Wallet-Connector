@@ -41,7 +41,7 @@ This backend service provides REST APIs for the Cardano wallet dApp, handling:
 | Morgan | 1.10+ | HTTP logging |
 | Express-rate-limit | 7.1+ | Rate limiting |
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Before you begin, ensure you have:
 
