@@ -18,7 +18,7 @@ Production-ready Node.js/Express backend for Cardano blockchain dApp with MongoD
 - [Deployment](#deployment)
 - [Troubleshooting](#troubleshooting)
 
-## 🚀 Overview
+##  Overview
 
 This backend service provides REST APIs for the Cardano wallet dApp, handling:
 - Wallet registration and management
