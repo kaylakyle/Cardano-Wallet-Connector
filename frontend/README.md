@@ -1,5 +1,5 @@
 
-  <img src="https://raw.githubusercontent.com/cardano-foundation/
+  <img src="https://raw.githubusercontent.com/
   <h1>Cardano DApp Frontend</h1>
   <p><strong>Production-Ready React Application for Cardano Blockchain</strong></p>
   
