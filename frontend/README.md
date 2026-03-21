@@ -1,5 +1,5 @@
 
-  <img src="https://raw.github
+  <img src="https:
   <h1>Cardano DApp Frontend</h1>
   <p><strong>Production-Ready React Application for Cardano Blockchain</strong></p>
   
