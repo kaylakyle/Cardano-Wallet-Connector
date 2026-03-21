@@ -1,5 +1,5 @@
 
-  <img src="https://raw.githubusercontent.com/cardano-foundation/brand-resources/main/Cardano%20Logo%20Assets/PNG/Black/Cardano_Logo_Black.png" width="200" 
+  <img src="https://raw.githubusercontent.com/cardano-foundation/brand-resources/main/Cardano%20Logo%20Assets/PNG/Black/Cardano_Logo_Black.png"  
   <h1>Cardano DApp Frontend</h1>
   <p><strong>Production-Ready React Application for Cardano Blockchain</strong></p>
   
