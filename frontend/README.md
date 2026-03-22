@@ -30,7 +30,7 @@
 </td>
 <td width="50%">
 
-### 💸 **Send ADA**
+###  **Send ADA**
 - Transfer ADA to any Cardano address
 - Metadata support for transactions
 - Transaction preview before sending
