@@ -50,7 +50,7 @@
 </td>
 <td width="50%">
 
-### 🎨 **Modern UI/UX**
+###  **Modern UI/UX**
 - Glass morphism design
 - Smooth animations with Framer Motion
 - Fully responsive
