@@ -85,7 +85,7 @@ Before you begin, ensure you have:
   - [Eternl Wallet](https://chrome.google.com/webstore/detail/eternl/kmhcihpebfmpgmihbkipmjlmmioameka)
   - [Flint Wallet](https://chrome.google.com/webstore/detail/flint-wallet/hnhobjmcibchnmglfbldbfabcgaknlkj)
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Clone the Repository
 
