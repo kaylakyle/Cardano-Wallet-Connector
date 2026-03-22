@@ -41,7 +41,7 @@
 <tr>
 <td width="50%">
 
-### 📊 **Dashboard**
+###  **Dashboard**
 - Real-time balance display
 - Transaction volume charts
 - Network status indicator
