@@ -74,7 +74,7 @@
 | **Charts** | Recharts |
 | **Icons** | React Icons |
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have:
 
