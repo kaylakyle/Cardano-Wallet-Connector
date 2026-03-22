@@ -60,7 +60,7 @@
 </tr>
 </table>
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Category | Technologies |
 |----------|--------------|
