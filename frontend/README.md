@@ -13,7 +13,7 @@
   <a href="https://github.com/yourusername/cardano-wallet-dapp/issues">Request Feature</a>
 </div>
 
-##  Key Features
+## Key Features
 
 <table>
 <tr>
