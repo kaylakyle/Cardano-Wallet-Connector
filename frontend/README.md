@@ -19,7 +19,7 @@
 <tr>
 <td width="50%">
 
-### 🔌 **Wallet Integration**
+### **Wallet Integration**
 - Connect to **Nami**, **Eternl**, and **Flint** wallets
 - CIP-30 compliant wallet API
 - Automatic network detection (Testnet/Mainnet)
