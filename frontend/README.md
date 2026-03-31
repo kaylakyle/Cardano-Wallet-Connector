@@ -10,7 +10,7 @@
   
   <a href="https://cardano-dapp-demo.vercel.app">Live Demo</a>
   ·
-  <a href="https://github.com/yourusername/cardano-wallet-dapp/issues">Request 
+  <a href="https://github.com/yourusername/cardano-wallet-dapp/issues">
 </div>
 
 ## Key Features
