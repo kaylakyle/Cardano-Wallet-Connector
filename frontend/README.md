@@ -9,8 +9,6 @@
   <p>A modern, production-ready decentralized application that connects Cardano wallets, enables ADA transfers, and provides real-time transaction tracking with a beautiful UI/UX.</p>
   
   <a href="https://cardano-dapp-demo.vercel.app">Live Demo</a>
-  ·
-  
 </div>
 
 ## Key Features
