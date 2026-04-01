@@ -7,8 +7,6 @@
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
   
   <p>A modern, production-ready decentralized application that connects Cardano wallets, enables ADA transfers, and provides real-time transaction tracking with a beautiful UI/UX.</p>
-  
-  
 </div>
 
 ## Key Features
