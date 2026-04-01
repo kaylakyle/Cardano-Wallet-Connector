@@ -1,4 +1,4 @@
-  <h1>Cardano DApp Fronte</h1>
+  <h1>Cardano DApp Fron</h1>
   <p><strong>Production-Ready React Application for Cardano Blockchain</strong></p>
   
   [![React](https://img.shields.io/badge/React-18.x-61DAFB?logo=react)](https://reactjs.org/)
