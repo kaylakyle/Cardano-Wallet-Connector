@@ -7,7 +7,7 @@ Production-ready Node.js/Express backend for Cardano blockchain dApp with MongoD
 - [Tech Stack](#tech-stack)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Environment Setup
+- [Environment Set
 - [Database Setup](#database-setup)
 - [Running the Server](#running-the-server)
 - [API Documentation](#api-documentation)
