@@ -75,7 +75,7 @@ Before you begin, ensure you have:
 - **Node.js** (v18.0.0 or higher)
 - **npm** (v9.0.0 or higher) or **yarn**
 - **Cardano Wallet Extension** (choose one):
-  - [Nami Wallet](https://chrome.google.com/webstore/detail/
+  - [Nami Wallet](https://chrome.google.com/webstore/
   - [Eternl Wallet](https://chrome.google.com/webstore/detail/eternl/kmhcihpebfmpgmihbkipmjlmmioameka)
   - [Flint Wallet](https://chrome.google.com/webstore/detail/flint-wallet/hnhobjmcibchnmglfbldbfabcgaknlkj)
 
