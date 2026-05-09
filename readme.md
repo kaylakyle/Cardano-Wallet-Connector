@@ -1,4 +1,4 @@
-## frontend set up
+## frontend set up.
 ##  Quick Start.
 
 ### 1. Clone the Repository.
