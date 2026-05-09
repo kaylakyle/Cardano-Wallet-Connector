@@ -1,7 +1,7 @@
 ## frontend set up
 ##  Quick Start
 
-### 1. Clone the Repository
+### 1. Clone the Repository.
 
 ```bash
 git clone https://github.com/yourusername/cardano-wallet-dapp.git
